@@ -1,6 +1,5 @@
-! Title: Fuck Fuckadblock
-! Description: Filters for blocking pop-ups and anti-adblock bypass
-! Author: Bogachenko Vyacheslav
+! Title: xnxx.com
+! Author: @Modz_Riz
 
 www.xnxx.com##.video-ad
 www.xnxx.com##.no-scroll
