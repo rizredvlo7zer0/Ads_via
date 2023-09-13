@@ -17,3 +17,7 @@
 ###mobile-ad
 ###overplay
 ###iklanbawah
+!
+! ---------- domain ----------
+!
+||googleads.g.doubleclick.net^
