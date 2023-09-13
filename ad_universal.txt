@@ -13,6 +13,7 @@
 ##.scaled-juicyads
 ##.scaled-exoclick
 ##.iklanads
+##.cc-window
 ###floatcenter
 ###mobile-ad
 ###overplay
