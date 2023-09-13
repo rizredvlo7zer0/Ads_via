@@ -1,0 +1,17 @@
+! Title: ad_universal
+! Author: @Modz_Riz
+
+##iframe[src^="//a.magsrv.com/iframe.php"]
+##div[style="display: block !important;"]
+##.downloadBanner-container
+##.remove-ads
+##.ad-box
+##.adsbygoogle
+##.lmd-iklan
+##.scaled-juicyads
+##.scaled-exoclick
+##.iklanads
+###floatcenter
+###mobile-ad
+###overplay
+###iklanbawah
