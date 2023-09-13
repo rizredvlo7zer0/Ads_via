@@ -26,6 +26,7 @@
 ! ---------- domain ----------
 !
 ||googleads.g.doubleclick.net^
+||securepubads.g.doubleclick.net^
 ||acceptable.a-ads.com^
 ||iili.io^
 ||iifvcfwiqi.com^
