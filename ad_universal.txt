@@ -15,6 +15,7 @@
 ##.iklanads
 ##.cc-window
 ##.cc_banner
+##.cookie-accept
 ##.ad-content
 ###sticky-ad
 ###floatcenter
