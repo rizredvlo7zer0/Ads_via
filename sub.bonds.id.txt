@@ -1,4 +1,4 @@
-! Title: sub.bond.id
+! Title: sub.bonds.id
 ! Author: @Modz_Riz
 
 sub.bonds.id##.msgbox
