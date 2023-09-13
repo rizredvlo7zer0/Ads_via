@@ -1,6 +1,8 @@
 ! Title: ad_universal
 ! Author: @Modz_Riz
-
+!
+! ---------- # ----------
+!
 ##iframe[src^="//a.magsrv.com/iframe.php"]
 ##div[style="display: block !important;"]
 ##.downloadBanner-container
