@@ -1,0 +1,12 @@
+! Title: speedtest.net
+! Author: @Modz_Riz
+
+www.speedtest.net###zdcFloatingBtn
+www.speedtest.net##.nav-mobile-controls
+www.speedtest.net##.footer
+www.speedtest.net##.pure-u-1-4
+www.speedtest.net##div[data-view-name="downdetector-eot"]
+www.speedtest.net###modal-overlay
+www.speedtest.net##.ad-post-test
+www.speedtest.net###onetrust-banner-sdk
+www.speedtest.net##a[href^="https://play.google.com/store/apps/details"]
