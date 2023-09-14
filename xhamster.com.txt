@@ -35,3 +35,4 @@ ar.xhamster.com##.clipstore-results
 ||m.tsyndicate.com^
 ||collector.xhamster.com^
 ||ic-ut-lm.xhcdn.com^
+||b-hls-09.doppiocdn.org^
