@@ -31,6 +31,8 @@
 ||googleads.g.doubleclick.net^
 ||securepubads.g.doubleclick.net^
 ||acceptable.a-ads.com^
+||ads-g.juicyads.com^
+||adserver.juicyads.com^
 ||iili.io^
 ||iifvcfwiqi.com^
 |/wp-content/cache/min/1/js/jads-*.js
