@@ -24,6 +24,7 @@
 ###mobile-ad
 ###overplay
 ###iklanbawah
+###cookie-notice-bar
 !
 ! ---------- domain ----------
 !
