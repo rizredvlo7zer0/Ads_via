@@ -33,3 +33,5 @@ ar.xhamster.com##.clipstore-results
 ||video-lm-a.xhcdn.com^
 ||pxl.tsyndicate.com^
 ||m.tsyndicate.com^
+||collector.xhamster.com^
+||ic-ut-lm.xhcdn.com^
