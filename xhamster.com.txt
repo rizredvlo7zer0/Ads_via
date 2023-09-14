@@ -1,6 +1,7 @@
 ! Title: xhamster.com
 ! Author: @Modz_Riz
 
+id.xhamster.com##.yld-pd--top
 id.xhamster.com##.yld-pd--middle
 id.xhamster.com##.yld-pd--bottom
 id.xhamster.com##.yld-pdpremium-overlay
