@@ -1,4 +1,4 @@
-! Title: ad_universal
+! Title: Adblock_Universal
 ! Author: @Modz_Riz
 !
 ! ---------- # ----------
