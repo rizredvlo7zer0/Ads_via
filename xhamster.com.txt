@@ -30,3 +30,6 @@ ar.xhamster.com##.clipstore-results
 ||ip255963568.ahcdn.com^
 ||moonvids.space^
 ||go.kbnmnl.com^
+||video-lm-a.xhcdn.com^
+||pxl.tsyndicate.com^
+||m.tsyndicate.com^
