@@ -1,7 +1,6 @@
 ! Title: pornhub.com
 ! Author: @Modz_Riz
 
-www.pornhub.com##.xplayer-ads-block-companion
 www.pornhub.com##.videoSpiceVidsBlock
 www.pornhub.com##.adContainer
 
@@ -12,4 +11,3 @@ www.pornhub.com##.adContainer
 ||evtubescms.phncdn.com^
 ||etahub.com^
 ||static.trafficjunky.com^
-||cdn.stripcash.com^
