@@ -3,7 +3,6 @@
 !
 ! ---------- # ----------
 !
-##iframe[src^="//a.magsrv.com/iframe.php"]
 ##div[style="display: block !important;"]
 ##.downloadBanner-container
 ##.remove-ads
@@ -33,6 +32,8 @@
 ||acceptable.a-ads.com^
 ||ads-g.juicyads.com^
 ||adserver.juicyads.com^
+||poweredby.jads.co^
+||a.magsrv.com^
 ||iili.io^
 ||iifvcfwiqi.com^
 |/wp-content/cache/min/1/js/jads-*.js
