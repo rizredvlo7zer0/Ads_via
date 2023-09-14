@@ -17,6 +17,7 @@
 ##.cc_banner
 ##.cookie-accept
 ##.cookie-consent
+##.cookie-announce
 ##.ad-content
 ###sticky-ad
 ###floatcenter
