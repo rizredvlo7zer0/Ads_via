@@ -5,13 +5,24 @@ id.xhamster.com##.yld-pd--top
 id.xhamster.com##.yld-pd--middle
 id.xhamster.com##.yld-pd--bottom
 id.xhamster.com##.yld-pdpremium-overlay
-id.xhamster.com##.clipstore-results
-id.xhamster.com##.yld-pd--top
+id.xhamster.com##.yld-pdsp-b
 id.xhamster.com##.xp-icon
 id.xhamster.com##.xp-banner-pause
 id.xhamster.com##.xplayer-ads-block-companion
 id.xhamster.com##.xplayer-ads-block
 id.xhamster.com##.xplayer-ads-block__link
+id.xhamster.com##.clipstore-results
+ar.xhamster.com##.yld-pd--top
+ar.xhamster.com##.yld-pd--middle
+ar.xhamster.com##.yld-pd--bottom
+ar.xhamster.com##.yld-pdpremium-overlay
+ar.xhamster.com##.yld-pdsp-b
+ar.xhamster.com##.xp-icon
+ar.xhamster.com##.xp-banner-pause
+ar.xhamster.com##.xplayer-ads-block-companion
+ar.xhamster.com##.xplayer-ads-block
+ar.xhamster.com##.xplayer-ads-block__link
+ar.xhamster.com##.clipstore-results
 
 ||img.strpst.com^
 ||go.xxxviijmp.com^
