@@ -1,0 +1,13 @@
+! Title: xhamster.com
+! Author: @Modz_Riz
+
+id.xhamster.com##.yld-pd--middle
+id.xhamster.com##.yld-pd--bottom
+id.xhamster.com##.yld-pdpremium-overlay
+id.xhamster.com##.clipstore-results
+id.xhamster.com##.yld-pd--top
+id.xhamster.com##.xp-icon
+id.xhamster.com##.xp-banner-pause
+id.xhamster.com##.xplayer-ads-block-companion
+id.xhamster.com##.xplayer-ads-block
+id.xhamster.com##.xplayer-ads-block__link
