@@ -33,3 +33,4 @@
 ||acceptable.a-ads.com^
 ||iili.io^
 ||iifvcfwiqi.com^
+|/wp-content/cache/min/1/js/jads-*.js
