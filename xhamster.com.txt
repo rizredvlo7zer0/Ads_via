@@ -8,7 +8,6 @@ id.xhamster.com##.yld-pdpremium-overlay
 id.xhamster.com##.yld-pdsp-b
 id.xhamster.com##.xp-icon
 id.xhamster.com##.xp-banner-pause
-id.xhamster.com##.xplayer-ads-block-companion
 id.xhamster.com##.xplayer-ads-block
 id.xhamster.com##.xplayer-ads-block__link
 id.xhamster.com##.video-view-ads
@@ -20,7 +19,6 @@ ar.xhamster.com##.yld-pdpremium-overlay
 ar.xhamster.com##.yld-pdsp-b
 ar.xhamster.com##.xp-icon
 ar.xhamster.com##.xp-banner-pause
-ar.xhamster.com##.xplayer-ads-block-companion
 ar.xhamster.com##.xplayer-ads-block
 ar.xhamster.com##.xplayer-ads-block__link
 ar.xhamster.com##.video-view-ads
