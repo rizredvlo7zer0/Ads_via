@@ -11,3 +11,10 @@ id.xhamster.com##.xp-banner-pause
 id.xhamster.com##.xplayer-ads-block-companion
 id.xhamster.com##.xplayer-ads-block
 id.xhamster.com##.xplayer-ads-block__link
+
+||img.strpst.com^
+||go.xxxviijmp.com^
+||vlcdn.tsyndicate.com^
+||ip255963568.ahcdn.com^
+||moonvids.space^
+||go.kbnmnl.com^
