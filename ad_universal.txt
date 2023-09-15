@@ -9,6 +9,8 @@
 ##.ad-box
 ##.adsbygoogle
 ##.lmd-iklan
+##.adsbypubpower
+##.ad-wrapper-mobile
 ##.scaled-juicyads
 ##.scaled-exoclick
 ##.iklanads
@@ -18,6 +20,9 @@
 ##.cookie-consent
 ##.cookie-announce
 ##.ad-content
+##.kln
+##.cmt
+###ads-pop
 ###sticky-ad
 ###floatcenter
 ###mobile-ad
