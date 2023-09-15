@@ -46,7 +46,6 @@
 !
 ||googleads.g.doubleclick.net^
 ||securepubads.g.doubleclick.net^
-||pagead2.googlesyndication.com^
 ||cdnjs.cloudflare.com^
 ||cdn.jsdelivr.net^
 ||acceptable.a-ads.com^
