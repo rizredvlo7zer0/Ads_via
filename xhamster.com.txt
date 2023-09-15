@@ -13,6 +13,7 @@ id.xhamster.com##.xplayer-ads-block__link
 id.xhamster.com##.xplayer-ads-block-companion
 id.xhamster.com##.video-view-ads
 id.xhamster.com##.clipstore-results
+id.xhamster.com##.auto-generated-banner
 ar.xhamster.com##.yld-pd--top
 ar.xhamster.com##.yld-pd--middle
 ar.xhamster.com##.yld-pd--bottom
@@ -25,5 +26,6 @@ ar.xhamster.com##.xplayer-ads-block__link
 ar.xhamster.com##.xplayer-ads-block-companion
 ar.xhamster.com##.video-view-ads
 ar.xhamster.com##.clipstore-results
+ar.xhamster.com##.auto-generated-banner
 
 ||cdn.stripcash.com^
