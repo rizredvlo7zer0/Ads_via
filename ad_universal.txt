@@ -22,6 +22,8 @@
 ##.ad-content
 ##.kln
 ##.cmt
+###top-banner
+###floatads
 ###ads-pop
 ###sticky-ad
 ###floatcenter
