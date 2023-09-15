@@ -7,7 +7,6 @@ www.pornhub.com##.adContainer
 |https://www.pornhub.com/_xa/ads_batch?ads=true&clientType=mobile&channel
 ||pxl.tsyndicate.com^
 ||vlcdn.tsyndicate.com^
-||cdn.bootcss.com^
 ||evtubescms.phncdn.com^
 ||etahub.com^
 ||static.trafficjunky.com^
