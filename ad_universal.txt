@@ -59,3 +59,4 @@
 ||adserver.juicyads.com^
 ||poweredby.jads.co^
 ||a.magsrv.com^
+||cdn.ampproject.org^
