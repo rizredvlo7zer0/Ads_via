@@ -31,6 +31,8 @@
 ##.adv-mid
 ##.adv-bottom
 ##.downloadBanner-container
+##.mobileadsbottom
+##.mobileads
 ###cookit
 ###admad
 ###AdbModel
