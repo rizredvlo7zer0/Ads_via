@@ -55,7 +55,6 @@
 ||googleads.g.doubleclick.net^
 ||securepubads.g.doubleclick.net^
 ||cdnjs.cloudflare.com^
-||cdn.jsdelivr.net^
 ||acceptable.a-ads.com^
 ||ads-g.juicyads.com^
 ||adserver.juicyads.com^
