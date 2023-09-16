@@ -5,6 +5,8 @@
 !
 ##div[style="display: block !important;"]
 ##.downloadBanner-container
+##._ad
+##.iklan
 ##.remove-ads
 ##.ad-box
 ##.adsbygoogle
@@ -26,6 +28,9 @@
 ##.cmt
 ##.stickAd
 ##.adblockDetector.detect
+##.top-adv
+##.adv-mid
+##.adv-bottom
 ###cookit
 ###admad
 ###AdbModel
