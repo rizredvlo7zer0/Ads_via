@@ -3,7 +3,6 @@
 !
 ! ---------- # ----------
 !
-##.downloadBanner-container
 ##._ad
 ##.iklan
 ##.iklanpost
@@ -31,6 +30,7 @@
 ##.top-adv
 ##.adv-mid
 ##.adv-bottom
+##.downloadBanner-container
 ###cookit
 ###admad
 ###AdbModel
