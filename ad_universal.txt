@@ -3,7 +3,6 @@
 !
 ! ---------- # ----------
 !
-##div[style="display: block !important;"]
 ##.downloadBanner-container
 ##._ad
 ##.iklan
@@ -47,6 +46,7 @@
 ###ccpaCookieBanner
 ###cookieBar
 ###cookie-law-info-bar
+##div[style="display: block !important;"]
 !
 ! ---------- domain ----------
 !
