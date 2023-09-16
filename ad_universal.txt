@@ -35,6 +35,7 @@
 ##.mobileads
 ###cookit
 ###admad
+###AdSystem
 ###AdbModel
 ###top-banner
 ###floatads
@@ -60,6 +61,11 @@
 ||poweredby.jads.co^
 ||a.magsrv.com^
 ||cdn.ampproject.org^
+||lcdn.tsyndicate.com^
+||cdn.tsyndicate.com^
+||ads.exoclick.com^
+||iifvcfwiqi.com^
+||owrkwilxbw.com^
 !
 ! ---------- ip8.com ----------
 !
