@@ -59,6 +59,3 @@
 ||adserver.juicyads.com^
 ||poweredby.jads.co^
 ||a.magsrv.com^
-||iili.io^
-||iifvcfwiqi.com^
-|/wp-content/cache/min/1/js/jads-*.js
