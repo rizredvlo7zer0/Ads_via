@@ -197,3 +197,24 @@ www5.javmost.com###divExoLayerWrapper
 www5.javmost.com##.text-center
 www5.javmost.com##div[style="overflow: hidden !important;"]
 www5.javmost.com##div[style="width:100%; height: 100px;overflow: hidden !important;"]
+!
+! ---------- doodstream ----------
+!
+doood.co##header[style="text-align: center;"]
+dooood.com##.mt-3
+dood.yt##.mt-3
+doods.pro##.mt-3
+||daa3665245.cf07a959c7.com^
+||limurol.com^
+||blockadsnot.com^
+||fvcwqkkqmuv.com^
+||ku2d3a7pa8mdi.com^
+||eownouncillors.info^
+||adfgfeojqx.com^
+||msjltrpkpfgb.com^
+||deatchshipsmotor.com^
+||dwltllgypggwor.com^
+||rceasfaggdu.com^
+||deductionkeepingbabysitter.com^
+||predictiondexchange.com^
+||*.adsco.re^
