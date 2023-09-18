@@ -39,6 +39,7 @@
 ##.player-section__ads-banners
 ##.ads-el
 ##.header-ad-mobile
+##.header-ads-container
 ##.under-player-ad-mobile
 ###cookie-accept-footer
 ###rfads810x270
