@@ -126,3 +126,15 @@ www.speedtest.net##a[href^="https://play.google.com/store/apps/details"]
 !
 ||static.javhdhello.com^
 ||daa3665245.cf07a959c7.com^
+!
+! ---------- xnxx.com ----------
+!
+www.xnxx.com##.video-ad
+www.xnxx.com##.no-scroll
+www.xnxx.com##.inner
+www.xnxx.com###content-ad-top-zone-contener
+www.xnxx.com###ad-footer
+www.xnxx.com###footer
+www.xnxx.com###ad-header-mobile-contener
+||u3y8v8u4.aucdn.net^
+||s3t3d2y8.afcdn.net^
