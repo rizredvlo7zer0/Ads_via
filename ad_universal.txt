@@ -26,6 +26,7 @@
 ##.kln
 ##.cmt
 ##.stickAd
+##.adContainer
 ##.adblockDetector.detect
 ##.top-adv
 ##.adv-mid
@@ -149,3 +150,13 @@ www.xvideos.com###ad-footer
 www.xvideos.com###footer
 www.xvideos.com###ad-header-mobile-contener
 www.xvideos.com###content-ad-top-zone-contener
+!
+! ---------- pornhub.com ----------
+!
+www.pornhub.com##.videoSpiceVidsBlock
+||pxl.tsyndicate.com^
+||vlcdn.tsyndicate.com^
+||evtubescms.phncdn.com^
+||etahub.com^
+||static.trafficjunky.com^
+|https://www.pornhub.com/_xa/ads_batch?ads=true&clientType=mobile&channel
