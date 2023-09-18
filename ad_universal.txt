@@ -139,3 +139,15 @@ www.xnxx.com###footer
 www.xnxx.com###ad-header-mobile-contener
 ||u3y8v8u4.aucdn.net^
 ||s3t3d2y8.afcdn.net^
+!
+! ---------- xvideos.com ----------
+!
+www.xvideos.com##.video-ad
+www.xvideos.com##.no-scroll
+www.xvideos.com##.inner
+www.xvideos.com###ad-footer
+www.xvideos.com###footer
+www.xvideos.com###ad-header-mobile-contener
+www.xvideos.com###content-ad-top-zone-contener
+||u3y8v8u4.aucdn.net^
+||s3t3d2y8.afcdn.net^
