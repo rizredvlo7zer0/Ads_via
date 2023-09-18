@@ -121,3 +121,8 @@ www.speedtest.net###modal-overlay
 www.speedtest.net##.ad-post-test
 www.speedtest.net###onetrust-banner-sdk
 www.speedtest.net##a[href^="https://play.google.com/store/apps/details"]
+!
+! ---------- nekopoi.com ----------
+!
+||static.javhdhello.com^
+||daa3665245.cf07a959c7.com^
