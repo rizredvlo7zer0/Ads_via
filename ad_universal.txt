@@ -58,8 +58,10 @@
 ||acceptable.a-ads.com^
 ||ads-g.juicyads.com^
 ||adserver.juicyads.com^
+||js.juicyads.com^
 ||poweredby.jads.co^
 ||a.magsrv.com^
+||s4.histats.com^
 ||cdn.ampproject.org^
 ||lcdn.tsyndicate.com^
 ||cdn.tsyndicate.com^
@@ -70,6 +72,11 @@
 ||lby2kd27c.com^
 ||rxeosevsso.com^
 ||rkgwzfwjgk.com^
+||anime.berangkasilmu.com^
+||a.pemsrv.com^
+|desustream.me/banner/Otakudesu-baru.gif
+|a.adtng.com/get/*?time=*
+|in.hdsex.org/agent.php?spot=*
 !
 ! ---------- ip8.com ----------
 !
