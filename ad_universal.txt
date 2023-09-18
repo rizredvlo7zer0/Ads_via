@@ -190,3 +190,10 @@ ar.xhamster.com##.video-view-ads
 ar.xhamster.com##.clipstore-results
 ar.xhamster.com##.auto-generated-banner
 ||cdn.stripcash.com^
+!
+! ---------- javmost.com ----------
+!
+www5.javmost.com###divExoLayerWrapper
+www5.javmost.com##.text-center
+www5.javmost.com##div[style="overflow: hidden !important;"]
+www5.javmost.com##div[style="width:100%; height: 100px;overflow: hidden !important;"]
