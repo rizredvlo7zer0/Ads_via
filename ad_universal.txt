@@ -63,6 +63,7 @@
 ###cookie-notice-bar
 ###ccpaCookieBanner
 ###cookieBar
+###cookiescript_injected
 ###cookie-law-info-bar
 ##div[style="display: block !important;"]
 !
