@@ -25,6 +25,7 @@
 ##.ad-unit
 ##.kln
 ##.cmt
+##.js-ad-slot
 ##.stickAd
 ##.adContainer
 ##.adblockDetector.detect
