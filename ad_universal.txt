@@ -110,6 +110,16 @@
 |a.adtng.com/get/*?time=*
 |in.hdsex.org/agent.php?spot=*
 !
+! ---------- vidio.com ----------
+!
+m.vidio.com###livestreaming-player__player_ima-ad-container
+m.vidio.com###vod-player_ima-ad-container
+m.vidio.com##.smart-banner-module_wrapper__S7r2K
+||sync.taboola.com^
+||sg-wf.taboola.com^
+||trc.taboola.com^
+||videos.taboola.com^
+!
 ! ---------- ip8.com ----------
 !
 ip8.com##.panel-info
