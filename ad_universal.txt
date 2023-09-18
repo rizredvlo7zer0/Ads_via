@@ -200,10 +200,10 @@ www5.javmost.com##div[style="width:100%; height: 100px;overflow: hidden !importa
 !
 ! ---------- doodstream ----------
 !
-doood.co##header[style="text-align: center;"]
 dooood.com##.mt-3
-dood.yt##.mt-3
 doods.pro##.mt-3
+dood.yt##.mt-3
+doood.co##header[style="text-align: center;"]
 ||daa3665245.cf07a959c7.com^
 ||limurol.com^
 ||blockadsnot.com^
