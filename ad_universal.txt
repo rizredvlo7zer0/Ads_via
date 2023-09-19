@@ -143,11 +143,15 @@ www.dream.co.id###gpt-ad-div-section-10
 www.dream.co.id###gpt-ad-div-section-11
 www.dream.co.id###gpt-ad-div-section-12
 www.dream.co.id###gpt-ad-div-section-13
-www.dream.co.id###gpt-ad-div-section-14 www.dream.co.id###gpt-ad-div-section-15
-www.dream.co.id###gpt-ad-div-section-16 www.dream.co.id###gpt-ad-div-section-17
+www.dream.co.id###gpt-ad-div-section-14
+www.dream.co.id###gpt-ad-div-section-15
+www.dream.co.id###gpt-ad-div-section-16
+www.dream.co.id###gpt-ad-div-section-17
 www.dream.co.id###gpt-ad-div-section-18
-www.dream.co.id###gpt-ad-div-section-19 www.dream.co.id###gpt-ad-div-section-20
-www.dream.co.id###gpt-ad-div-section-21 www.dream.co.id###gpt-ad-div-section-22
+www.dream.co.id###gpt-ad-div-section-19
+www.dream.co.id###gpt-ad-div-section-20
+www.dream.co.id###gpt-ad-div-section-21
+www.dream.co.id###gpt-ad-div-section-22
 www.dream.co.id###gpt-ad-div-section-23
 www.dream.co.id###gpt-ad-div-section-24
 !
