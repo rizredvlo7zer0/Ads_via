@@ -42,6 +42,14 @@
 ##.header-ad-mobile
 ##.header-ads-container
 ##.under-player-ad-mobile
+##.widget-ads3
+##.banner-ads--big
+##.box-ads--container
+##.banner-mgid
+##.banner-flying
+##.widget-ads-top
+###adds-top
+###iklan_anchor
 ###cookie-accept-footer
 ###rfads810x270
 ###headerads2
