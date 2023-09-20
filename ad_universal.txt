@@ -48,6 +48,10 @@
 ##.banner-mgid
 ##.banner-flying
 ##.widget-ads-top
+##.ad_lrec
+##.banner-float-bottom
+###fixedbox
+###CybotCookiebotDialog
 ###adds-top
 ###iklan_anchor
 ###cookie-accept-footer
@@ -75,6 +79,7 @@
 ###cookiescript_injected
 ###cookie-law-info-bar
 ##div[style="display: block !important;"]
+##a[href^="/ads.php"]
 !
 ! ---------- domain ----------
 !
