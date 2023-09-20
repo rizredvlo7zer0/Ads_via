@@ -39,6 +39,7 @@
 ##.outstream-adv
 ##.player-section__ads-banners
 ##.ads-el
+##.td-header-ad-wrap
 ##.header-ad-mobile
 ##.header-ads-container
 ##.under-player-ad-mobile
@@ -51,6 +52,7 @@
 ##.ad_lrec
 ##.banner-float-bottom
 ###fixedbox
+###ad-footer
 ###CybotCookiebotDialog
 ###adds-top
 ###iklan_anchor
