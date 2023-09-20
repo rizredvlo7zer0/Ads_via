@@ -135,6 +135,8 @@
 ||insight.adsrvr.org^
 ||msg-intl.qy.net^
 ||redirector.gvt1.com^
+||cdn.viglink.com^
+||55b05ac1d0.13f8c0b498.com^
 |desustream.me/banner/Otakudesu-baru.gif
 |a.adtng.com/get/*?time=*
 |in.hdsex.org/agent.php?spot=*
