@@ -102,6 +102,11 @@
 ||servicer.mgid.com^
 ||cdn.mgid.com^
 ||jsc.mgid.com^
+||cdn.adskeeper.co.uk^
+||servicer.adskeeper.co.uk^
+||s-img.adskeeper.co.uk^
+||cm.adskeeper.co.uk^
+||c.adskeeper.co.uk^
 ||cdn.ampproject.org^
 ||lcdn.tsyndicate.com^
 ||cdn.tsyndicate.com^
