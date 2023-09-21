@@ -167,6 +167,7 @@
 ||redirector.gvt1.com^
 ||cdn.viglink.com^
 ||nereserv.com^
+||adoto.net^
 ||9d844b1143.7f00f312e5.com^
 ||55b05ac1d0.13f8c0b498.com^
 ||b0863824fe.673681cb40.com^
@@ -355,4 +356,5 @@ doood.co##header[style="text-align: center;"]
 ||eedsaung.net^
 ||alas4kanmfa6a4mubte.com^
 ||betotodilea.com^
+||reerfdfgourgoldpie.com^
 ||*.adsco.re^
