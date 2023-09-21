@@ -112,8 +112,6 @@
 !
 ! ---------- domain ----------
 !
-||googleads.g.doubleclick.net^
-||securepubads.g.doubleclick.net^
 ||acceptable.a-ads.com^
 ||ad.a-ads.com^
 ||static.a-ads.com^
