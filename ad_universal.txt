@@ -52,6 +52,17 @@
 ##.widget-ads-top
 ##.ad_lrec
 ##.banner-float-bottom
+##.module_single_ads
+##.idmuvi-topbanner-aftermenu
+##.idmuvi-topbanner-archive
+##.idmuvi-topbanner
+##.inner-floatbanner-bottom
+##.idmuvi-topplayer
+##.idmuvi-afterplayer
+##.cookie_uneu_banner
+##.mfp-bg
+###idmuvi-popup
+###idbannerplayer
 ###fixedbox
 ###ad-footer
 ###CybotCookiebotDialog
@@ -137,6 +148,7 @@
 ||redirector.gvt1.com^
 ||cdn.viglink.com^
 ||55b05ac1d0.13f8c0b498.com^
+||b0863824fe.673681cb40.com^
 |desustream.me/banner/Otakudesu-baru.gif
 |a.adtng.com/get/*?time=*
 |in.hdsex.org/agent.php?spot=*
