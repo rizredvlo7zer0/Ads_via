@@ -8,6 +8,7 @@
 ##.ad-inner
 ##.iklan
 ##.iklanpost
+##.sponsor
 ##.remove-ads
 ##.ad-box
 ##.adsense
@@ -33,6 +34,7 @@
 ##.top-adv
 ##.adv-mid
 ##.adv-bottom
+##.bottom-adv
 ##.downloadBanner-container
 ##.mobileadsbottom
 ##.mobileads
@@ -168,6 +170,7 @@
 ||cdn.viglink.com^
 ||nereserv.com^
 ||adoto.net^
+||a.adtng.com^
 ||9d844b1143.7f00f312e5.com^
 ||55b05ac1d0.13f8c0b498.com^
 ||b0863824fe.673681cb40.com^
@@ -356,5 +359,6 @@ doood.co##header[style="text-align: center;"]
 ||eedsaung.net^
 ||alas4kanmfa6a4mubte.com^
 ||betotodilea.com^
+||patoionanrumand.com^
 ||reerfdfgourgoldpie.com^
 ||*.adsco.re^
