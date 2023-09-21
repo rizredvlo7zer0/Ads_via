@@ -18,9 +18,6 @@
 ##.iklanads
 ##.cc-window
 ##.cc_banner
-##.cookie-accept
-##.cookie-consent
-##.cookie-announce
 ##.ad-content
 ##.adb-popup
 ##.ad-unit
@@ -36,7 +33,6 @@
 ##.downloadBanner-container
 ##.mobileadsbottom
 ##.mobileads
-##.cookies-modal
 ##.outstream-adv
 ##.player-section__ads-banners
 ##.ads-el
@@ -59,23 +55,19 @@
 ##.inner-floatbanner-bottom
 ##.idmuvi-topplayer
 ##.idmuvi-afterplayer
-##.cookie_uneu_banner
 ##.mfp-bg
 ###idmuvi-popup
 ###idbannerplayer
 ###fixedbox
 ###ad-footer
-###CybotCookiebotDialog
 ###adds-top
 ###iklan_anchor
-###cookie-accept-footer
 ###rfads810x270
 ###headerads2
 ###bottomads
 ###fixedban
 ###Ad
 ###vban
-###cookit
 ###admad
 ###AdSystem
 ###AdbModel
@@ -88,13 +80,24 @@
 ###mobile-ad
 ###overplay
 ###iklanbawah
+##div[style="display: block !important;"]
+##a[href^="/ads.php"]
+!
+! ---------- cookie ----------
+!
+##.cookies-modal
+##.cookie-accept
+##.cookie-consent
+##.cookie-announce
+##.cookie_uneu_banner
+###CybotCookiebotDialog
+###cookie-accept-footer
 ###cookie-notice-bar
 ###ccpaCookieBanner
 ###cookieBar
+###cookit
 ###cookiescript_injected
 ###cookie-law-info-bar
-##div[style="display: block !important;"]
-##a[href^="/ads.php"]
 !
 ! ---------- domain ----------
 !
