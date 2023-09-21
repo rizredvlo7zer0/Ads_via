@@ -4,6 +4,8 @@
 ! ---------- # ----------
 !
 ##._ad
+##.ad
+##.ad-inner
 ##.iklan
 ##.iklanpost
 ##.remove-ads
@@ -75,6 +77,7 @@
 ###headerads2
 ###bottomads
 ###fixedban
+###gads
 ###Ad
 ###vban
 ###admad
@@ -95,6 +98,7 @@
 !
 ! ---------- cookie ----------
 !
+##.cookiealert
 ##.cookies-modal
 ##.cookie-banner
 ##.cookie-accept
@@ -106,6 +110,7 @@
 ###cookie-notice-bar
 ###ccpaCookieBanner
 ###cookieBar
+###cookie-pop
 ###cookit
 ###cookiescript_injected
 ###cookie-law-info-bar
