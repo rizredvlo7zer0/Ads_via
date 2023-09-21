@@ -86,6 +86,7 @@
 ! ---------- cookie ----------
 !
 ##.cookies-modal
+##.cookie-banner
 ##.cookie-accept
 ##.cookie-consent
 ##.cookie-announce
