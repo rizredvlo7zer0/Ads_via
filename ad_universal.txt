@@ -110,6 +110,7 @@
 ###CybotCookiebotDialog
 ###cookie-accept-footer
 ###cookie-notice-bar
+###cookie-notice
 ###ccpaCookieBanner
 ###cookieBar
 ###cookie-pop
@@ -171,6 +172,7 @@
 ||nereserv.com^
 ||adoto.net^
 ||a.adtng.com^
+||alertreal.com^
 ||9d844b1143.7f00f312e5.com^
 ||55b05ac1d0.13f8c0b498.com^
 ||b0863824fe.673681cb40.com^
