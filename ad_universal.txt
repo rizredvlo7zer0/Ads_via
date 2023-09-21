@@ -23,6 +23,7 @@
 ##.ad-unit
 ##.kln
 ##.cmt
+##.kcm-track
 ##.js-ad-slot
 ##.stickAd
 ##.adContainer
@@ -41,6 +42,7 @@
 ##.header-ads-container
 ##.under-player-ad-mobile
 ##.widget-ads3
+##.banner-300
 ##.banner-ads--big
 ##.box-ads--container
 ##.banner-mgid
@@ -56,6 +58,13 @@
 ##.idmuvi-topplayer
 ##.idmuvi-afterplayer
 ##.mfp-bg
+##.sticky-banner
+##.ads-container
+##.footer_banner
+##.pushdown-banner
+##.ads-latest-wrap
+##.boxBanner1
+##.premium_div
 ###idmuvi-popup
 ###idbannerplayer
 ###fixedbox
@@ -76,6 +85,7 @@
 ###floatads
 ###ads-pop
 ###sticky-ad
+###js-banner-sticky
 ###floatcenter
 ###mobile-ad
 ###overplay
