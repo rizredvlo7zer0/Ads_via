@@ -112,6 +112,10 @@
 !
 ! ---------- domain ----------
 !
+||googleads.g.doubleclick.net^
+||securepubads.g.doubleclick.net^
+||lcdn.tsyndicate.com^
+||cdn.tsyndicate.com^
 ||acceptable.a-ads.com^
 ||ad.a-ads.com^
 ||static.a-ads.com^
