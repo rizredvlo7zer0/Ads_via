@@ -8,6 +8,11 @@
 ##.ad-inner
 ##.iklan
 ##.iklanpost
+##.slotiklan
+##.iklan-middle
+##.iklan-top-mobile
+##.giant-banner
+##.ads-fixfooter
 ##.sponsor
 ##.remove-ads
 ##.ad-box
@@ -69,6 +74,7 @@
 ##.ads-latest-wrap
 ##.boxBanner1
 ##.premium_div
+##.ads-partner-wrap
 ###idmuvi-popup
 ###idbannerplayer
 ###fixedbox
@@ -100,6 +106,7 @@
 !
 ! ---------- cookie ----------
 !
+##.ocbc-cookies
 ##.cookiealert
 ##.cookies-modal
 ##.cookie-banner
