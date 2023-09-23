@@ -124,6 +124,7 @@
 ###cookit
 ###cookiescript_injected
 ###cookie-law-info-bar
+##.consent-banner
 !
 ! ---------- domain ----------
 !
