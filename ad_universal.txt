@@ -75,6 +75,9 @@
 ##.boxBanner1
 ##.premium_div
 ##.ads-partner-wrap
+##.code-block-14
+##.popUpBannerContent
+##.src-__style-module___lowerPane
 ###idmuvi-popup
 ###idbannerplayer
 ###fixedbox
@@ -86,6 +89,7 @@
 ###bottomads
 ###fixedban
 ###gads
+###gdpr
 ###Ad
 ###vban
 ###admad
@@ -101,6 +105,7 @@
 ###mobile-ad
 ###overplay
 ###iklanbawah
+###floating_banner_top1
 ##div[style="display: block !important;"]
 ##a[href^="/ads.php"]
 !
