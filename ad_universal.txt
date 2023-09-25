@@ -120,6 +120,13 @@
 ###overplay
 ###iklanbawah
 ###floating_banner_top1
+###div-gpt-ad-hub_river_med_rec
+###div-gpt-ad-hub_river_med_rec_1
+###div-gpt-ad-hub_river_med_rec_2
+###div-gpt-ad-hub_river_med_rec_3
+###div-gpt-ad-mobile_med_rec_athena
+###div-gpt-ad-mobile_leaderboard_hub
+###div-gpt-ad-mobile_footer
 ##div[style="display: block !important;"]
 ##a[href^="/ads.php"]
 !
