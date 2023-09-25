@@ -36,6 +36,8 @@
 ##.kcm-track
 ##.js-ad-slot
 ##.stickAd
+##.underlay-ad
+##.box-ads
 ##.adContainer
 ##.adblockDetector.detect
 ##.top-adv
@@ -125,6 +127,7 @@
 ###mobile-ad
 ###overplay
 ###iklanbawah
+###megabillboard
 ###billboard
 ###floating_banner_top1
 ###div-gpt-ad-hub_river_med_rec
@@ -138,6 +141,7 @@
 ###div-gpt-ad-sc-placeholder
 ###div-gpt-ad-exposer-placeholder
 ###div-gpt-ad-topfrm-parallax-wrapper
+###div-gpt-ad-sc-paging-placeholder
 ##div[style="display: block !important;"]
 ##a[href^="/ads.php"]
 !
