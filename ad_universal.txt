@@ -101,6 +101,9 @@
 ###headerads2
 ###bottomads
 ###fixedban
+###vi-smartbanner
+###adDiv__child
+###vi-ad
 ###gads
 ###gdpr
 ###divR
