@@ -119,6 +119,7 @@
 ###mobile-ad
 ###overplay
 ###iklanbawah
+###billboard
 ###floating_banner_top1
 ###div-gpt-ad-hub_river_med_rec
 ###div-gpt-ad-hub_river_med_rec_1
