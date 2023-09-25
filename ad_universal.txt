@@ -121,6 +121,7 @@
 ###top-banner
 ###floatads
 ###ads-pop
+###adsframe
 ###sticky-ad
 ###js-banner-sticky
 ###floatcenter
@@ -130,6 +131,7 @@
 ###megabillboard
 ###billboard
 ###floating_banner_top1
+###inscroll-banner-home
 ###div-gpt-ad-hub_river_med_rec
 ###div-gpt-ad-hub_river_med_rec_1
 ###div-gpt-ad-hub_river_med_rec_2
@@ -142,6 +144,10 @@
 ###div-gpt-ad-exposer-placeholder
 ###div-gpt-ad-topfrm-parallax-wrapper
 ###div-gpt-ad-sc-paging-placeholder
+###me-div-gpt-ad-center1
+###me-div-gpt-ad-center2
+###me-div-gpt-ad-topcenter
+###me-div-gpt-ad-stickyad
 ##div[style="display: block !important;"]
 ##a[href^="/ads.php"]
 !
