@@ -63,6 +63,11 @@
 ##.banner-mgid
 ##.banner-flying
 ##.widget-ads-top
+##.consent-banner
+##.adn-posty__top
+##.exo-native-widget-item
+##.modal-backdrop
+##.modal-dialog
 ##.ad_lrec
 ##.banner-float-bottom
 ##.module_single_ads
@@ -84,6 +89,7 @@
 ##.code-block-14
 ##.popUpBannerContent
 ##.src-__style-module___lowerPane
+###onetrust-banner-sdk
 ###idmuvi-popup
 ###idbannerplayer
 ###fixedbox
@@ -121,6 +127,7 @@
 !
 ##.ocbc-cookies
 ##.cookiealert
+##.accept_cookies
 ##.cookies-modal
 ##.cookie-banner
 ##.cookie-accept
@@ -137,7 +144,6 @@
 ###cookit
 ###cookiescript_injected
 ###cookie-law-info-bar
-##.consent-banner
 !
 ! ---------- domain ----------
 !
@@ -196,6 +202,8 @@
 ||adoto.net^
 ||a.adtng.com^
 ||alertreal.com^
+||b.montlusa.top^
+||a.montlusa.top^
 ||9d844b1143.7f00f312e5.com^
 ||55b05ac1d0.13f8c0b498.com^
 ||b0863824fe.673681cb40.com^
