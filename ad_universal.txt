@@ -84,6 +84,9 @@
 ##.pushdown-banner
 ##.ads-latest-wrap
 ##.boxBanner1
+##.billboardPushdown
+##.billboardWrapper
+##.billboardBottom
 ##.premium_div
 ##.ads-partner-wrap
 ##.code-block-14
