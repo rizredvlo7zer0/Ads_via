@@ -134,6 +134,10 @@
 ###div-gpt-ad-mobile_med_rec_athena
 ###div-gpt-ad-mobile_leaderboard_hub
 ###div-gpt-ad-mobile_footer
+###div-gpt-ad-hl-placeholder
+###div-gpt-ad-sc-placeholder
+###div-gpt-ad-exposer-placeholder
+###div-gpt-ad-topfrm-parallax-wrapper
 ##div[style="display: block !important;"]
 ##a[href^="/ads.php"]
 !
