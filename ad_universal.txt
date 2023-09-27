@@ -153,6 +153,7 @@
 !
 ! ---------- cookie ----------
 !
+##.cookies-card
 ##.ocbc-cookies
 ##.cookiealert
 ##.accept_cookies
@@ -162,12 +163,14 @@
 ##.cookie-consent
 ##.cookie-announce
 ##.cookie_uneu_banner
+###cookie-modal-box
 ###CybotCookiebotDialog
 ###cookie-accept-footer
 ###cookie-notice-bar
 ###cookie-notice
 ###ccpaCookieBanner
 ###cookieBar
+###cookie-box
 ###cookie-pop
 ###cookit
 ###cookiescript_injected
@@ -330,6 +333,11 @@ ip8.com##.input-group-btn
 ip8.com##.navbar-header
 ip8.com##.text-center
 ip8.com##.weglot_switcher
+!
+! ---------- sfile.mobi ----------
+!
+sfile.mobi###b
+sfile.mobi###t
 !
 ! ---------- sub.bond ----------
 !
