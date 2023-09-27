@@ -23,6 +23,9 @@
 ##.ad-wrapper-mobile
 ##.scaled-juicyads
 ##.scaled-exoclick
+##.smartbanner-ads
+##.masthead-ads
+##.overlay
 ##.iklanads
 ##.cc-window
 ##.cc_banner
@@ -149,6 +152,7 @@
 ###me-div-gpt-ad-topcenter
 ###me-div-gpt-ad-stickyad
 ##div[style="display: block !important;"]
+##div[name="parallax1"]
 ##a[href^="/ads.php"]
 !
 ! ---------- cookie ----------
@@ -175,6 +179,7 @@
 ###cookit
 ###cookiescript_injected
 ###cookie-law-info-bar
+###branda-cookie-notice
 !
 ! ---------- domain ----------
 !
