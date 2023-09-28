@@ -365,9 +365,11 @@ www.speedtest.net##a[href^="https://play.google.com/store/apps/details"]
 !
 ! ---------- nekopoi.com ----------
 !
+nekopoi.care##._4KjPzfFqnPyBgIgiXkX
 ||static.javhdhello.com^
 ||daa3665245.cf07a959c7.com^
 ||f454ca226d.d05571f85f.com^
+||4e7b160761.7e77e49c84.com^
 !
 ! ---------- xnxx.com ----------
 !
