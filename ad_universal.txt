@@ -149,11 +149,16 @@
 ###div-gpt-ad-exposer-placeholder
 ###div-gpt-ad-topfrm-parallax-wrapper
 ###div-gpt-ad-sc-paging-placeholder
+###div-gpt-ad-1686117884470-0
+###div-gpt-ad-1686117822643-0
+###div-gpt-ad-1686117682241-0
+###div-gpt-ad-1686117595695-0
 ###me-div-gpt-ad-center1
 ###me-div-gpt-ad-center2
 ###me-div-gpt-ad-topcenter
 ###me-div-gpt-ad-stickyad
 ##div[style="display: block !important;"]
+##div[data-testid="ResponsiveAdSlot"]
 ##div[name="parallax1"]
 ##a[href^="/ads.php"]
 !
@@ -167,10 +172,12 @@
 ##.cookie-banner
 ##.cookie-accept
 ##.cookie-consent
+##.cookie-consent-overlay
 ##.cookie-announce
 ##.cookie_uneu_banner
 ##.cp-cookie-tip
 ##.r-cookie
+###consent-lock
 ###cookie-modal-box
 ###CybotCookiebotDialog
 ###cookie-accept-footer
