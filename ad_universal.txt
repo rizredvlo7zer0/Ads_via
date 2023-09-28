@@ -160,6 +160,7 @@
 ##div[style="display: block !important;"]
 ##div[data-testid="ResponsiveAdSlot"]
 ##div[name="parallax1"]
+##img[loading="lazy"]
 ##a[href^="/ads.php"]
 !
 ! ---------- cookie ----------
@@ -255,7 +256,10 @@
 ||55b05ac1d0.13f8c0b498.com^
 ||b0863824fe.673681cb40.com^
 ||e67repidwnfu7gcha.com^
+||a.tixir.xyz^
+||px.vliplatform.com^
 |https://www.google.com/afs/ads/i/iframe.html
+|https://*/wp-includes/js/jquery/jquery.min.js?ver=3.7.0
 |yandex.ru/ads/system/context.js
 |desustream.me/banner/Otakudesu-baru.gif
 |a.adtng.com/get/*?time=*
