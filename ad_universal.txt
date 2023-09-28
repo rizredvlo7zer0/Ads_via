@@ -43,6 +43,7 @@
 ##.box-ads
 ##.adContainer
 ##.adblockDetector.detect
+##.cdk-overlay-backdrop
 ##.top-adv
 ##.adv-mid
 ##.adv-bottom
@@ -122,6 +123,7 @@
 ###AdbModel
 ###carbonads
 ###top-banner
+###consent-banner
 ###floatads
 ###ads-pop
 ###adsframe
@@ -167,6 +169,8 @@
 ##.cookie-consent
 ##.cookie-announce
 ##.cookie_uneu_banner
+##.cp-cookie-tip
+##.r-cookie
 ###cookie-modal-box
 ###CybotCookiebotDialog
 ###cookie-accept-footer
