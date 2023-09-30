@@ -263,10 +263,10 @@
 ||px.vliplatform.com^
 |https://www.google.com/afs/ads/i/iframe.html
 |https://*/wp-includes/js/jquery/jquery.min.js?ver=3.7.0
-|yandex.ru/ads/system/context.js
 |https://*/advertising.js
 |https://*/ad-provider.js
 |https://*/adgpt.js
+|yandex.ru/ads/system/context.js
 |desustream.me/banner/Otakudesu-baru.gif
 |a.adtng.com/get/*?time=*
 |in.hdsex.org/agent.php?spot=*
