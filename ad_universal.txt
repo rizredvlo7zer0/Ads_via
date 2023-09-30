@@ -75,6 +75,8 @@
 ##.modal-backdrop
 ##.modal-dialog
 ##.ad_lrec
+##.adp_interactive_ad
+##.advert-banner-container
 ##.banner-float-bottom
 ##.module_single_ads
 ##.idmuvi-topbanner-aftermenu
@@ -189,6 +191,7 @@
 ###cookie-box
 ###cookie-pop
 ###cookit
+###cookieWarnBox
 ###cookiescript_injected
 ###cookie-law-info-bar
 ###branda-cookie-notice
@@ -261,6 +264,9 @@
 |https://www.google.com/afs/ads/i/iframe.html
 |https://*/wp-includes/js/jquery/jquery.min.js?ver=3.7.0
 |yandex.ru/ads/system/context.js
+|https://*/advertising.js
+|https://*/ad-provider.js
+|https://*/adgpt.js
 |desustream.me/banner/Otakudesu-baru.gif
 |a.adtng.com/get/*?time=*
 |in.hdsex.org/agent.php?spot=*
