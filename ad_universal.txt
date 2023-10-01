@@ -180,6 +180,7 @@
 ##.cookie-announce
 ##.cookie_uneu_banner
 ##.cookie-container
+##.cookie-policy
 ##.cp-cookie-tip
 ##.r-cookie
 ###consent-lock
@@ -272,6 +273,7 @@ https://*/ajax/libs/cookieconsent2/1.0.9/dark-top.css
 |a.adtng.com/get/*?time=*
 |in.hdsex.org/agent.php?spot=*
 |https://*/wp-includes/js/jquery/jquery.min.js?ver=3.7.0
+|http://*/cdn-cgi/scripts/*/cloudflare-static/rocket-loader.min.js
 |https://*/advertising.js
 |https://*/ad-provider.js
 |https://*/adgpt.js
