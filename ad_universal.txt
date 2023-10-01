@@ -167,6 +167,7 @@
 !
 ! ---------- cookie ----------
 !
+##.cookie
 ##.cookies-card
 ##.ocbc-cookies
 ##.cookiealert
