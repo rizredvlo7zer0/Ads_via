@@ -33,6 +33,8 @@
 ##.kln
 ##.cmt
 ##.va
+##.cc_banner
+##.cc-window
 ##.banner-img
 ##.kcm-track
 ##.js-ad-slot
