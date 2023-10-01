@@ -266,6 +266,10 @@
 |desustream.me/banner/Otakudesu-baru.gif
 |a.adtng.com/get/*?time=*
 |in.hdsex.org/agent.php?spot=*
+|https://*/wp-includes/js/jquery/jquery.min.js?ver=3.7.0
+|https://*/advertising.js
+|https://*/ad-provider.js
+|https://*/adgpt.js
 !
 ! ---------- vidio.com ----------
 !
