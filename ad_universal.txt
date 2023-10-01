@@ -27,7 +27,6 @@
 ##.masthead-ads
 ##.overlay
 ##.iklanads
-##.cc-window
 ##.cc_banner
 ##.ad-content
 ##.adb-popup
@@ -197,6 +196,7 @@
 ###cookiescript_injected
 ###cookie-law-info-bar
 ###branda-cookie-notice
+|https://*/npm/cookieconsent@3/build/cookieconsent.min.js
 !
 ! ---------- domain ----------
 !
