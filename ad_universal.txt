@@ -27,7 +27,6 @@
 ##.masthead-ads
 ##.overlay
 ##.iklanads
-##.cc_banner
 ##.ad-content
 ##.adb-popup
 ##.ad-unit
@@ -197,6 +196,8 @@
 ###cookie-law-info-bar
 ###branda-cookie-notice
 |https://*/npm/cookieconsent@3/build/cookieconsent.min.js
+https://*/gampad/cookie.js?domain=*
+https://*/ajax/libs/cookieconsent2/1.0.9/dark-top.css
 !
 ! ---------- domain ----------
 !
