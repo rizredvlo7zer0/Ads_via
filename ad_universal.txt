@@ -179,6 +179,7 @@
 ##.cookie-consent-overlay
 ##.cookie-announce
 ##.cookie_uneu_banner
+##.cookie-container
 ##.cp-cookie-tip
 ##.r-cookie
 ###consent-lock
