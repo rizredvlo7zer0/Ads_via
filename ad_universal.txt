@@ -95,6 +95,7 @@
 ##.billboardPushdown
 ##.billboardWrapper
 ##.billboardBottom
+##.billboardFlyingBanner
 ##.premium_div
 ##.ads-partner-wrap
 ##.code-block-14
@@ -147,10 +148,12 @@
 ###div-gpt-ad-mobile_leaderboard_hub
 ###div-gpt-ad-mobile_footer
 ###div-gpt-ad-hl-placeholder
+###div-gpt-ad-hl2-placeholder
 ###div-gpt-ad-sc-placeholder
 ###div-gpt-ad-exposer-placeholder
 ###div-gpt-ad-topfrm-parallax-wrapper
 ###div-gpt-ad-sc-paging-placeholder
+###div-gpt-ad-fimela-bottomfrm
 ###div-gpt-ad-1686117884470-0
 ###div-gpt-ad-1686117822643-0
 ###div-gpt-ad-1686117682241-0
