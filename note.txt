@@ -85,7 +85,6 @@
 ##.inner-floatbanner-bottom
 ##.idmuvi-topplayer
 ##.idmuvi-afterplayer
-##.mfp-bg
 ##.sticky-banner
 ##.ads-container
 ##.footer_banner
