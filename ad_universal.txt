@@ -91,6 +91,7 @@
 ##.footer_banner
 ##.pushdown-banner
 ##.ads-latest-wrap
+##.parallaxindetail
 ##.boxBanner1
 ##.billboardPushdown
 ##.billboardWrapper
@@ -131,6 +132,7 @@
 ###ads-pop
 ###adsframe
 ###sticky-ad
+###sticky-ads
 ###js-banner-sticky
 ###floatcenter
 ###mobile-ad
