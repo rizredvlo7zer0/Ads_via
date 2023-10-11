@@ -167,7 +167,6 @@
 ##div[style="display: block !important;"]
 ##div[data-testid="ResponsiveAdSlot"]
 ##div[name="parallax1"]
-##img[loading="lazy"]
 ##a[href^="/ads.php"]
 !
 ! ---------- cookie ----------
