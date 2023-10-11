@@ -1,7 +1,0 @@
-! Title: sub.bonds.id
-! Author: @Modz_Riz
-
-sub.bonds.id##.msgbox
-sub.bonds.id##.el-button--primary
-sub.bonds.id##.el-row--flex>span
-sub.bonds.id##.el-button--success
