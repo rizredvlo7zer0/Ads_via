@@ -601,4 +601,7 @@ m.youtube.com##ytm-promoted-sparkles-web-renderer
 m.youtube.com##ytm-promoted-video-renderer
 ###ytd-display-ad-renderer
 ###ytd-rich-item-renderer
+###header.mobile-topbar-header > button
+###button.ytp-ad-skip-button
+##.ytmusic-nav-bar#left-content
 ##.ad-showing
