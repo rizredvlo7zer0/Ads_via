@@ -599,3 +599,6 @@ m.youtube.com##ytm-companion-slot
 m.youtube.com##ytm-promoted-sparkles-text-search-renderer
 m.youtube.com##ytm-promoted-sparkles-web-renderer
 m.youtube.com##ytm-promoted-video-renderer
+###ytd-display-ad-renderer
+###ytd-rich-item-renderer
+##.ad-showing
