@@ -520,3 +520,16 @@ doood.co##header[style="text-align: center;"]
 ||hlyrecomemum.info^
 ||ainhiseewhat.com^
 ||*.adsco.re^
+!
+! ---------- youtube.com ----------
+!
+m.youtube.com##.companion-ad-container
+m.youtube.com##.ytp-ad-action-interstitial
+m.youtube.com##.ytp-cued-thumbnail-overlay > div[style*="/sddefault.jpg"]
+m.youtube.com##a[href^="/watch?v="][onclick^="return koya.onEvent(arguments[0]||window.event,\'"]:not([role]):not([class]):not([id])
+m.youtube.com##a[onclick*=\'"ping_url":"http://www.google.com/aclk?\']
+m.youtube.com##ytm-companion-ad-renderer
+m.youtube.com##ytm-companion-slot
+m.youtube.com##ytm-promoted-sparkles-text-search-renderer
+m.youtube.com##ytm-promoted-sparkles-web-renderer
+m.youtube.com##ytm-promoted-video-renderer
