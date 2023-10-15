@@ -202,7 +202,9 @@
 ###cookiescript_injected
 ###cookie-law-info-bar
 ###branda-cookie-notice
-
+|https://*/npm/cookieconsent@3/build/cookieconsent.min.js
+https://*/gampad/cookie.js?domain=*
+https://*/ajax/libs/cookieconsent2/1.0.9/dark-top.css
 !
 ! ---------- domain ----------
 !
@@ -517,7 +519,6 @@ doood.co##header[style="text-align: center;"]
 ||czyoxhxufpm.com^
 ||hlyrecomemum.info^
 ||ainhiseewhat.com^
-||*.adsco.re^
 !
 ! ---------- youtube.com ----------
 !
