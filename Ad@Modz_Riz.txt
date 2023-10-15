@@ -282,6 +282,18 @@ https://*/ajax/libs/cookieconsent2/1.0.9/dark-top.css
 |https://*/ad-provider.js
 |https://*/adgpt.js
 !
+! ---------- adblock ----------
+!
+|https://*/dist/js/vpn.js
+|https://*/dist/js/api.js
+|https://*/dist/js/bootstrap.js
+|https://*/dist/js/simple.js?v=2
+|https://*/js/vpn.js
+|https://*/js/api.js?v=1
+|https://*/js/bundle.js?v=2
+|https://*/js/creator.js
+|https://*/js/rebuild.js
+!
 ! ---------- vidio.com ----------
 !
 m.vidio.com###livestreaming-player__player_ima-ad-container
