@@ -610,4 +610,7 @@ m.youtube.com##ytm-companion-slot
 m.youtube.com##ytm-promoted-sparkles-text-search-renderer
 m.youtube.com##ytm-promoted-sparkles-web-renderer
 m.youtube.com##ytm-promoted-video-renderer
-
+youtube.com##+js(set, yt.config_.openpopupconfig.supportedpopups.adblockmessageviewmodel, false)
+youtube.com##+js(set, object.prototype.adblocksfound, 0)
+youtube.com##+js(set, ytplayer.config.args.raw_player_response.adplacements, [])
+youtube.com##+js(set, object.prototype.hasallowedınstreamad, true)
