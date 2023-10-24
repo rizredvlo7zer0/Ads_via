@@ -189,6 +189,7 @@
 ##.cookie-policy
 ##.cp-cookie-tip
 ##.r-cookie
+##.cookiesBanner
 ###consent-lock
 ###cookie-modal-box
 ###CybotCookiebotDialog
@@ -292,6 +293,10 @@
 |https://*/js/bundle.js?v=2
 |https://*/js/creator.js
 |https://*/js/rebuild.js
+!
+! ---------- video-ad ----------
+!
+|https://cdn.zblkqa.com/video/*
 !
 ! ---------- vidio.com ----------
 !
@@ -415,6 +420,8 @@ nekopoi.care##._4KjPzfFqnPyBgIgiXkX
 www.xnxx.com##.video-ad
 www.xnxx.com##.no-scroll
 www.xnxx.com##.inner
+www.xnxx.com##.videoad-click
+www.xnxx.com##.videoad-video
 www.xnxx.com###ad-footer
 www.xnxx.com###footer
 www.xnxx.com###ad-header-mobile-contener
@@ -422,6 +429,7 @@ www.xnxx.com###content-ad-top-zone-contener
 www.xnxx.com###video_67156816
 www.xnxx.com###video_48026710
 www.xnxx.com###video_81609770
+www.xnxx.com###video_78219745
 !
 ! ---------- xvideos.com ----------
 !
