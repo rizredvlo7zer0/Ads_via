@@ -164,7 +164,6 @@
 ###me-div-gpt-ad-center2
 ###me-div-gpt-ad-topcenter
 ###me-div-gpt-ad-stickyad
-##div[style="display: block !important;"]
 ##div[data-testid="ResponsiveAdSlot"]
 ##div[name="parallax1"]
 ##a[href^="/ads.php"]
@@ -202,9 +201,6 @@
 ###cookiescript_injected
 ###cookie-law-info-bar
 ###branda-cookie-notice
-|https://*/npm/cookieconsent@3/build/cookieconsent.min.js
-https://*/gampad/cookie.js?domain=*
-https://*/ajax/libs/cookieconsent2/1.0.9/dark-top.css
 !
 ! ---------- domain ----------
 !
@@ -410,10 +406,6 @@ www.speedtest.net##a[href^="https://play.google.com/store/apps/details"]
 ! ---------- nekopoi.com ----------
 !
 nekopoi.care##._4KjPzfFqnPyBgIgiXkX
-||static.javhdhello.com^
-||daa3665245.cf07a959c7.com^
-||f454ca226d.d05571f85f.com^
-||4e7b160761.7e77e49c84.com^
 !
 ! ---------- xnxx.com ----------
 !
@@ -427,10 +419,6 @@ www.xnxx.com###content-ad-top-zone-contener
 www.xnxx.com###video_67156816
 www.xnxx.com###video_48026710
 www.xnxx.com###video_81609770
-||u3y8v8u4.aucdn.net^
-||s3t3d2y8.afcdn.net^
-||rpc-php.trafficfactory.biz^
-||s.orbsrv.com^
 !
 ! ---------- xvideos.com ----------
 !
