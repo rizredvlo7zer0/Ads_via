@@ -469,6 +469,12 @@ id.xhamster.com##.xplayer-ads-block-companion
 id.xhamster.com##.video-view-ads
 id.xhamster.com##.clipstore-results
 id.xhamster.com##.auto-generated-banner
+id.xhamster.com##.container-4caaa
+id.xhamster.com##.yld-pc--middle
+id.xhamster.com##.yld-pcunder-player-banner-wrapper
+id.xhamster.com##.yld-pc--bottom
+id.xhamster.com##.yld-pc--top
+id.xhamster.com##.yld-pcpremium-overlay
 ar.xhamster.com##.yld-pd--top
 ar.xhamster.com##.yld-pd--middle
 ar.xhamster.com##.yld-pd--bottom
@@ -482,6 +488,12 @@ ar.xhamster.com##.xplayer-ads-block-companion
 ar.xhamster.com##.video-view-ads
 ar.xhamster.com##.clipstore-results
 ar.xhamster.com##.auto-generated-banner
+ar.xhamster.com##.container-4caaa
+ar.xhamster.com##.yld-pc--middle
+ar.xhamster.com##.yld-pcunder-player-banner-wrapper
+ar.xhamster.com##.yld-pc--bottom
+ar.xhamster.com##.yld-pc--top
+ar.xhamster.com##.yld-pcpremium-overlay
 ||cdn.stripcash.com^
 !
 ! ---------- javmost.com ----------
