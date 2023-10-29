@@ -20,6 +20,7 @@
 ##.adsbygoogle
 ##.lmd-iklan
 ##.adsbypubpower
+##.adsbyvli
 ##.ad-wrapper-mobile
 ##.scaled-juicyads
 ##.scaled-exoclick
