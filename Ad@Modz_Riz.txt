@@ -294,6 +294,7 @@
 |https://*/js/vpn.js
 |https://*/js/api.js?v=1
 |https://*/js/bundle.js?v=2
+|https://*/js/bundle.js?v=4
 |https://*/js/creator.js
 |https://*/js/rebuild.js
 !
