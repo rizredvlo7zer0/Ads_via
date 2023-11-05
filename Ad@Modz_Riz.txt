@@ -33,6 +33,8 @@
 ##.ad-content
 ##.adb-popup
 ##.ad-unit
+##.ad-pss-middle
+##.ad-pss-bottom-right
 ##.kln
 ##.cmt
 ##.va
@@ -91,6 +93,9 @@
 ##.idmuvi-topplayer
 ##.idmuvi-afterplayer
 ##.mfp-bg
+##.t2op
+##.spnb
+##.adheader
 ##.sticky-banner
 ##.ads-container
 ##.footer_banner
@@ -126,6 +131,7 @@
 ###fixedban
 ###vi-smartbanner
 ###adDiv__child
+###black_friday
 ###vi-ad
 ###gads
 ###gdpr
@@ -276,11 +282,16 @@
 ||u3y8v8u4.aucdn.net^
 ||pt.wmptcd.com^
 ||twinrdack.com^
+||s3t3d2y8.afcdn.net^
+||a1w3m3e3.aacdn.net^
+||s.adsession.com^
+||img.strpst.com^
 ||e08409ce7e.e6460525b5.com^
 ||e6adc8baa5.007a15696d.com^
 ||9d844b1143.7f00f312e5.com^
 ||55b05ac1d0.13f8c0b498.com^
 ||b0863824fe.673681cb40.com^
+|https://cdn.cloudfrale.com/Managed/*
 |https://www.google.com/afs/ads/i/iframe.html
 |yandex.ru/ads/system/context.js
 |desustream.me/banner/Otakudesu-baru.gif
