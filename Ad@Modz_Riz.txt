@@ -319,6 +319,9 @@
 |https://*/js/bundle.js?v=4
 |https://*/js/creator.js
 |https://*/js/rebuild.js
+|https://*/js/grab.js
+|https://*/js/bundle.js?v=1.7
+|https://*/js/ssh.js?v=1.7
 !
 ! ---------- video-ad ----------
 !
