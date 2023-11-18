@@ -79,8 +79,6 @@
 ##.consent-banner
 ##.adn-posty__top
 ##.exo-native-widget-item
-##.modal-backdrop
-##.modal-dialog
 ##.ad_lrec
 ##.adp_interactive_ad
 ##.advert-banner-container
