@@ -584,13 +584,13 @@ www.youtube.com###feedmodule-PRO
 www.youtube.com###homepage-chrome-side-promo
 www.youtube.com###merch-shelf
 www.youtube.com###offer-module
-www.youtube.com###pla-shelf > ytd-pla-shelf-renderer[class="style-scope ytd-watch"]
+www.youtube.com###pla-shelf>ytd-pla-shelf-renderer[class="style-scope ytd-watch"]
 www.youtube.com###pla-shelf
 www.youtube.com###premium-yva
 www.youtube.com###promo-info
 www.youtube.com###promo-list
 www.youtube.com###promotion-shelf
-www.youtube.com###related > ytd-watch-next-secondary-results-renderer > #items > ytd-compact-promoted-video-renderer.ytd-watch-next-secondary-results-renderer
+www.youtube.com###related>ytd-watch-next-secondary-results-renderer>#items>ytd-compact-promoted-video-renderer.ytd-watch-next-secondary-results-renderer
 www.youtube.com###search-pva
 www.youtube.com###shelf-pyv-container
 www.youtube.com###video-masthead
@@ -643,7 +643,7 @@ www.youtube.com##ytd-video-masthead-ad-v3-renderer
 www.youtube.com##YTM-PROMOTED-VIDEO-RENDERER
 m.youtube.com##.companion-ad-container
 m.youtube.com##.ytp-ad-action-interstitial
-m.youtube.com##.ytp-cued-thumbnail-overlay > div[style*="/sddefault.jpg"]
+m.youtube.com##.ytp-cued-thumbnail-overlay>div[style*="/sddefault.jpg"]
 m.youtube.com##a[href^="/watch?v="][onclick^="return koya.onEvent(arguments[0]||window.event,\'"]:not([role]):not([class]):not([id])
 m.youtube.com##a[onclick*=\'"ping_url":"http://www.google.com/aclk?\']
 m.youtube.com##ytm-companion-ad-renderer
