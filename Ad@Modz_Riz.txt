@@ -406,18 +406,14 @@ www.merdeka.com###gpt-ad-div-section-28
 www.merdeka.com###gpt-ad-div-section-29
 www.merdeka.com###gpt-ad-div-section-30
 !
-! ---------- ip8.com ----------
+! ---------- iplocation.io ----------
 !
-ip8.com##.panel-info
-ip8.com##div[style="padding: 35px 80px"]
-ip8.com##.alert-light
-ip8.com##iframe[width="520"]
-ip8.com##.alert-info
-ip8.com###webrtc_detection
-ip8.com##.input-group-btn
-ip8.com##.navbar-header
-ip8.com##.text-center
-ip8.com##.weglot_switcher
+iplocation.io##.descriptions
+iplocation.io##.footer-container
+iplocation.io##.col
+iplocation.io##.hide_my_ip
+iplocation.io##.navbar-toggler
+iplocation.io##.h3
 !
 ! ---------- sfile.mobi ----------
 !
