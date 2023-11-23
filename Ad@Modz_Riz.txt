@@ -87,6 +87,8 @@
 ##.idmuvi-topbanner-aftermenu
 ##.idmuvi-topbanner-archive
 ##.idmuvi-topbanner
+##.idmuvi-banner-insidecontent
+##.idmuvi-banner-aftercontent
 ##.inner-floatbanner-bottom
 ##.idmuvi-topplayer
 ##.idmuvi-afterplayer
