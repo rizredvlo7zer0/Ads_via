@@ -217,6 +217,7 @@
 ###cookieBar
 ###cookie-box
 ###cookie-pop
+###cookies-popup
 ###cookit
 ###cookieWarnBox
 ###cookiescript_injected
