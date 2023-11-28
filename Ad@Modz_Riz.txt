@@ -109,12 +109,8 @@
 ##.billboardFlyingBanner
 ##.premium_div
 ##.ads-partner-wrap
-##.code-block-14
 ##.popUpBannerContent
 ##.Chunk_ad__QQqrX
-##.src-__style-module___lowerPane
-##.Vvo5pljnPwDgmDtKqQHh
-##._4KjPzfFqnPyBgIgiXkX
 ###adsimgxatass
 ###onetrust-banner-sdk
 ###idmuvi-popup
