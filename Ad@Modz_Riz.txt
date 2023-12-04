@@ -593,3 +593,7 @@ webiplookup.com##.group>ul
 webiplookup.com##.footer
 webiplookup.com##.bdsharebuttonbox
 webiplookup.com###J_share
+ouo.press###__bgd_link
+ouo.press###adtrue_tag_12953
+ouo.press###M272839ScriptRootC911109_0aae8
+ouo.press##div[style="padding-top:10px;margin:0 auto;width:300px;"]
