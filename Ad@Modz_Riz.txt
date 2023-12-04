@@ -68,6 +68,7 @@
 ##.header-ad-mobile
 ##.header-ads-container
 ##.under-player-ad-mobile
+##.inner-floatbanner-bottom
 ##.widget-ads3
 ##.banner-300
 ##.banner-ads--big
@@ -89,7 +90,6 @@
 ##.idmuvi-topbanner
 ##.idmuvi-banner-insidecontent
 ##.idmuvi-banner-aftercontent
-##.inner-floatbanner-bottom
 ##.idmuvi-topplayer
 ##.idmuvi-afterplayer
 ##.mfp-bg
