@@ -8,6 +8,7 @@
 ##.ad-inner
 ##.ad-100
 ##.iklan
+##.ad__300x250
 ##.iklanpost
 ##.slotiklan
 ##.iklan-middle
