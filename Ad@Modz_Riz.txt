@@ -605,3 +605,5 @@ javcrave.com###imlayer
 waptrick.com##.cent_list
 www.bing.com###b_footer
 chat.openai.com##.px-2>span
+pastebin.com##.popup-container
+www.smule.com##.sc-fmRtwQ
