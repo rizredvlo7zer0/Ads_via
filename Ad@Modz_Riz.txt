@@ -6,6 +6,7 @@
 ##._ad
 ##.ad
 ##.ad-inner
+##.ad-100
 ##.iklan
 ##.iklanpost
 ##.slotiklan
