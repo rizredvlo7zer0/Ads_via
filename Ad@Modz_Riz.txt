@@ -92,6 +92,7 @@
 ##.idmuvi-banner-aftercontent
 ##.idmuvi-topplayer
 ##.idmuvi-afterplayer
+##.viva-advert
 ##.mfp-bg
 ##.t2op
 ##.spnb
@@ -312,6 +313,7 @@
 |https://*/advertising.js
 |https://*/ad-provider.js
 |https://*/adgpt.js
+|https://*.advertnative.com
 !
 ! ---------- adblock ----------
 !
