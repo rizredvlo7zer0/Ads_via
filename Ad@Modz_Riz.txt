@@ -600,5 +600,6 @@ ouo.press###M272839ScriptRootC911109_0aae8
 ouo.press##div[style="padding-top:10px;margin:0 auto;width:300px;"]
 javcrave.com##.custom-html-widget
 javcrave.com###imlayer
+waptrick.com##.cent_list
 www.bing.com###b_footer
 chat.openai.com##.px-2>span
