@@ -456,6 +456,7 @@ www.xnxx.com##.no-scroll
 www.xnxx.com##.inner
 www.xnxx.com##.videoad-click
 www.xnxx.com##.videoad-video
+www.xnxx.com##.videoad-base
 www.xnxx.com###ad-footer
 www.xnxx.com###footer
 www.xnxx.com###ad-header-mobile-contener
