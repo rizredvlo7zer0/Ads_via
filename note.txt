@@ -232,6 +232,33 @@
 ||c.adskeeper.co.uk^
 ||cdn.ampproject.org^
 ||ads.exoclick.com^
+|https://www.google.com/afs/ads/i/iframe.html
+|yandex.ru/ads/system/context.js
+|desustream.me/banner/Otakudesu-baru.gif
+|a.adtng.com/get/*?time=*
+|in.hdsex.org/agent.php?spot=*
+|https://*/wp-includes/js/jquery/jquery.min.js?ver=3.7.0
+|http://*/cdn-cgi/scripts/*/cloudflare-static/rocket-loader.min.js
+|https://*/advertising.js
+|https://*/ad-provider.js
+|https://*/adgpt.js
+|https://*.advertnative.com
+!
+! ---------- adblock ----------
+!
+|https://*/dist/js/vpn.js
+|https://*/dist/js/api.js
+|https://*/dist/js/bootstrap.js
+|https://*/dist/js/simple.js?v=2
+|https://*/js/vpn.js
+|https://*/js/api.js?v=1
+|https://*/js/bundle.js?v=2
+|https://*/js/bundle.js?v=4
+|https://*/js/creator.js
+|https://*/js/rebuild.js
+|https://*/js/grab.js
+|https://*/js/bundle.js?v=1.7
+|https://*/js/ssh.js?v=1.7
 !
 ! ---------- vidio.com ----------
 !
