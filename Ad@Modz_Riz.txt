@@ -477,6 +477,9 @@ www.xnxx.com###ad_3954650
 ! ---------- xvideos.com ----------
 !
 www.xvideos.com##.video-ad
+www.xvideos.com##.videoad-video
+www.xvideos.com##.videoad-base
+www.xvideos.com##.videoad-click
 www.xvideos.com##.no-scroll
 www.xvideos.com##.inner
 www.xvideos.com###ad-footer
