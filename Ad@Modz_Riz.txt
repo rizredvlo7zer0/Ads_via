@@ -52,6 +52,7 @@
 ##.adContainer
 ##.adblockDetector.detect
 ##.cdk-overlay-backdrop
+##.top-ad
 ##.top-adv
 ##.adv-mid
 ##.adv-bottom
