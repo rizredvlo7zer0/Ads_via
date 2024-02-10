@@ -187,6 +187,7 @@
 ###me-div-gpt-ad-center2
 ###me-div-gpt-ad-topcenter
 ###me-div-gpt-ad-stickyad
+##div:has(.adblock_title)
 ##div[data-testid="ResponsiveAdSlot"]
 ##div[name="parallax1"]
 ##a[href^="/ads.php"]
