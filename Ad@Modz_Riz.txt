@@ -234,8 +234,6 @@
 ||googleads.g.doubleclick.net^
 ||securepubads.g.doubleclick.net^
 ||lcdn.tsyndicate.com^
-||mc.yandex.ru^
-||log.strm.yandex.ru^
 ||acceptable.a-ads.com^
 ||ad.a-ads.com^
 ||static.a-ads.com^
