@@ -310,7 +310,6 @@
 ||55b05ac1d0.13f8c0b498.com^
 ||b0863824fe.673681cb40.com^
 |https://www.google.com/afs/ads/i/iframe.html
-|yandex.ru/ads/system/context.js
 |desustream.me/banner/Otakudesu-baru.gif
 |a.adtng.com/get/*?time=*
 |in.hdsex.org/agent.php?spot=*
